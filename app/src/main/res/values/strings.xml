@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">pesankaos</string>
+    <string name="pemesanan_kaos">Pemesanan Kaos</string>
+    <string name="satu_kaos">Satu Kaos</string>
+    <string name="enam_kaos">Enam Kaos</string>
+    <string name="duabelas_kaos">Dua Belas Kaos</string>
+    <string name="pilihan_warna">Pilihan Warna</string>
+    <string name="putih">Putih</string>
+    <string name="merah">Merah</string>
+    <string name="biru">Biru</string>
+    <string name="hijau">Hijau</string>
+    <string name="coklat">Coklat</string>
+    <string name="hitam">Hitam</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="pilihan_tanggal_pickup">Pilihan Tanggal Pickup</string>
+    <string name="ringkasan_pesanan">Ringkasan Pesanan</string>
+    <string name="kirim">Kirim Pesanan ke Aplikasi Lain</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="warna">Warna</string>
+    <string name="tanggal_pickup">Tanggal pickup</string>
+    <string name="harga_subtotal">Subtotal %s</string>
+    <string name="total_harga">Total %s</string>
+    <string name="pesanan_kaos_baru">Pesanan Kaos Baru</string>
+    <string name="detail_pesanan">Jumlah: %1$s \nWarna: %2$s \nTanggal
+pickup: %3$s \nTotal: %4$s \n\nTerima Kasih!</string>
+    <string name="back_button">Back</string>
+</resources>
